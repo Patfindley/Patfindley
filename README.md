@@ -1,16 +1,19 @@
 ![header](https://github.com/Patfindley/Patfindley/blob/main/header.png?raw=true)
 
-<!--
-**Patfindley/Patfindley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>I'm a Father, Husband, and like to consider myself a "creator of non-tangible things".</p>
+  <p align='center'> A little more about me</p>
+    
+    
+    const pat = {
+    pronouns: ['He', 'Him'],
+    languages: ['Javascript', 'HTML', 'CSS'],
+    skills: {
+    js:['React', 'GSAP', 'Styled-Components'],
+    tdd: ['Mocha-Chai', 'Cypress'],
+    other: ['graphQL', 'CI']
+    },
+    deploys: ['(Portfolio)[http://patfindleycodes.com/]', '(What We Eatin)[https://mysterious-cove-94790.herokuapp.com/]','(POLY synth)[http://bright-bucket.surge.sh/]', '(Rick & Morty... thing)[https://guarded-chamber-88069.herokuapp.com/]'],
+    currentlyLearning: ['Context', 'Theming'],
+    enjoys:['Problem-solving', 'Collaboration', 'interactive design', 'organization'],
+    letsChatAbout: ['Javascript', 'UX/UI', 'Music', 'Guitars & Effects', 'Video Games']
+    }
