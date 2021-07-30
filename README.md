@@ -1,7 +1,7 @@
 ![header](https://github.com/Patfindley/Patfindley/blob/main/header.png?raw=true)
 
-<p align='center'>I'm a Father, Husband, and like to consider myself a "creator of non-tangible things".</p>
-  <p align='center'> A little more about me</p>
+<p >I'm a Father, Husband, and like to consider myself a "creator of non-tangible things".</p>
+  <p > A little more about me: </p>
   
 ```js  
     
@@ -19,3 +19,4 @@
     }
   
 ```
+<p>Check out my <a href='patfindleycodes.com' target='_blank'>portfolio</a> and say hello, or reach out on <a href='https://www.linkedin.com/in/patfindley/' target='_blank'>LinkedIn</a>!</p>
