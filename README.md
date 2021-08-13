@@ -20,3 +20,8 @@
   
 ```
 <p>Check out my <a href='patfindleycodes.com' target='_blank'>portfolio</a> and say hello, or reach out on <a href='https://www.linkedin.com/in/patfindley/' target='_blank'>LinkedIn</a>!</p>
+
+### Currently Working On:
+My <a href='patfindleycodes.com' target='_blank'>Portfolio Website</a> <br/>
+An App with some friends to decide <a href='https://mysterious-cove-94790.herokuapp.com/' target='_blank'>What We Eatin'</a>
+
