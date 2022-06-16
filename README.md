@@ -7,11 +7,12 @@
     
     const pat = {
        pronouns: ['He', 'Him'],
-       languages: ['Javascript', 'HTML', 'CSS'],
+       languages: ['Javascript', 'HTML', 'CSS', 'Ruby'],
        skills: {
           js:['React', 'GSAP', 'Styled-Components'],
-          tdd: ['Mocha-Chai', 'Cypress'],
-          other: ['graphQL', 'CI']
+          ruby:['Rails', 'postgresql'],
+          tdd: ['Mocha-Chai', 'Cypress', 'Rspec'],
+          other: ['graphQL', 'CI', 'tailwind', 'bootstrap', 'Heroku']
           },
       currentlyLearning: ['Context', 'Theming'],
       enjoys:['Problem-solving', 'Collaboration', 'interactive design', 'organization'],
@@ -21,7 +22,7 @@
 ```
 <p>Check out my <a href='patfindleycodes.com' target='_blank'>portfolio</a> and say hello, or reach out on <a href='https://www.linkedin.com/in/patfindley/' target='_blank'>LinkedIn</a>!</p>
 
-### Currently Working On:
+<!-- ### Currently Working On:
 My <a href='patfindleycodes.com' target='_blank'>Portfolio Website</a> <br/>
-An App with some friends to decide <a href='https://mysterious-cove-94790.herokuapp.com/' target='_blank'>What We Eatin'</a>
+An App with some friends to decide <a href='https://mysterious-cove-94790.herokuapp.com/' target='_blank'>What We Eatin'</a> -->
 
