@@ -7,7 +7,7 @@
     
     const pat = {
        pronouns: ['He', 'Him'],
-       languages: ['Javascript', 'HTML', 'CSS', 'Ruby'],
+       languages: ['Javascript', 'HTML', 'CSS', 'SCSS', 'Ruby'],
        skills: {
           js:['React', 'GSAP', 'Styled-Components'],
           ruby:['Rails', 'postgresql'],
