@@ -1,6 +1,6 @@
 ![header](https://github.com/Patfindley/Patfindley/blob/main/header.png?raw=true)
 
-<p >I'm a Father, Husband, and like to consider myself a "creator of non-tangible things".</p>
+<p >Father, Husband, and creator of non-tangible things.</p>
   <p > A little more about me: </p>
   
 ```js  
@@ -9,12 +9,12 @@
        pronouns: ['He', 'Him'],
        languages: ['Javascript', 'HTML', 'CSS', 'SCSS', 'Ruby'],
        skills: {
-          js:['React', 'GSAP', 'Styled-Components'],
+          js:['React', 'GSAP', 'Styled-Components', 'jQuery'],
           ruby:['Rails', 'postgresql'],
           tdd: ['Mocha-Chai', 'Cypress', 'Rspec'],
           other: ['graphQL', 'CI', 'tailwind', 'bootstrap', 'Heroku']
           },
-      currentlyLearning: ['Context', 'Theming'],
+      currentlyLearning: ['all things Rails'],
       enjoys:['Problem-solving', 'Collaboration', 'interactive design', 'organization'],
       letsChatAbout: ['Javascript', 'UX/UI', 'Music', 'Guitars & Effects', 'Video Games']
     }
