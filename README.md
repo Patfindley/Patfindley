@@ -12,7 +12,7 @@
           js:['React', 'GSAP', 'Styled-Components', 'jQuery'],
           ruby:['Rails', 'postgresql'],
           tdd: ['Mocha-Chai', 'Cypress', 'Rspec'],
-          other: ['graphQL', 'CI', 'tailwind', 'bootstrap', 'Heroku']
+          other: ['graphQL', 'CI', 'tailwind', 'bootstrap', 'Heroku', 'SQL']
           },
       currentlyLearning: ['all things Rails'],
       enjoys:['Problem-solving', 'Collaboration', 'interactive design', 'organization'],
